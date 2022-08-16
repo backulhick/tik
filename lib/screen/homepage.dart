@@ -13,7 +13,7 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     AppBar myAppbar = AppBar(
-      title: const Text('Kejuruan TIK'),
+      title: const Text('Selamat Datang di Kejuruan TIK BBPVP Bekasi'),
       centerTitle: true,
       elevation: 0,
       flexibleSpace: Container(
