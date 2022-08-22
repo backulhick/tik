@@ -16,44 +16,44 @@ var jurusanTikList = [
   JurusanTik(
     name: 'Pemrograman',
     description: 'mempelajari pemrogran desktop, web dan mobile',
-    imageAsset: 'assets/images/pemrograman.jpg',
+    imageAsset: 'assets/images/programming.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/programming1.png',
+      'assets/images/programming2.png',
+      'assets/images/programming3.png'
     ],
   ),
 
   JurusanTik(
     name: 'Desain Grafis',
     description: 'mempelajari desain grafis',
-    imageAsset: 'assets/images/desain.jpeg',
+    imageAsset: 'assets/images/design.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/design1.png',
+      'assets/images/design2.png',
+      'assets/images/design3.png'
     ],
   ),
 
   JurusanTik(
     name: 'animasi',
     description: 'mempelajari cara pembuatan asset dan animasi 3d menggunakan blender',
-    imageAsset: 'assets/images/animasi.jpg',
+    imageAsset: 'assets/images/animation.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/animation1.png',
+      'assets/images/animation2.png',
+      'assets/images/animation3.png'
     ],
   ),
 
   JurusanTik(
     name: 'IT Support',
     description: 'mempelajari tentang IT Support yang dibutuhkan oleh perusahaan dalam kehidupan sehari-hari',
-    imageAsset: 'assets/images/cts.png',
+    imageAsset: 'assets/images/ts.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/ts1.png',
+      'assets/images/ts2.png',
+      'assets/images/ts3.png'
     ],
   ),
 
@@ -62,20 +62,20 @@ var jurusanTikList = [
     description: 'mempelajari cara membuat video berkualitas',
     imageAsset: 'assets/images/multimedia.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/multimedia1.png',
+      'assets/images/multimedia2.png',
+      'assets/images/multimedia3.png'
     ],
   ),
 
   JurusanTik(
     name: 'Network',
     description: 'mempelajari jaringan komputer baik mikrotik dan Cisco',
-    imageAsset: 'assets/images/network.jpg',
+    imageAsset: 'assets/images/networking.png',
     imageUrls: [
-      'http://asset2017.stekom.ac.id/infoprogdi/bsr/b4e142b92460bcccdd80e399b7061faa.jpg',
-      'https://osccdn.medcom.id/images/content/2020/03/10/fb499f82e52673a03da1fc9d3bc17809.jpg',
-      'https://si.fst.unair.ac.id/5-bahasa-pemrograman-yang-harus-dikuasai/'
+      'assets/images/networking1.png',
+      'assets/images/networking2.png',
+      'assets/images/networking3.png'
     ],
   ),
 ];

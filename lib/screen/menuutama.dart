@@ -15,7 +15,7 @@ class _MenuUtamaState extends State<MenuUtama> {
 
     return Scaffold(
       appBar: AppBar(
-       title: const Text("Kejuruan TIK")
+       title: Text('Kejuruan TIK. Size: ${MediaQuery.of(context).size.width}')
       ),
 
       body: ListView.builder(
@@ -52,7 +52,7 @@ class _MenuUtamaState extends State<MenuUtama> {
                                     ),
                                     const SizedBox(
                                         height: 10
-                                    )
+                                    ),
                                   ]
                               )
                           )
@@ -61,7 +61,8 @@ class _MenuUtamaState extends State<MenuUtama> {
                   )
               ),
             );
-          }
+          },
+        itemCount: jurusanTikList.length,
       )
     );
   }
