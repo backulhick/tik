@@ -15,7 +15,7 @@ class JurusanTik {
 var jurusanTikList = [
   JurusanTik(
     name: 'Pemrograman',
-    description: 'mempelajari pemrogran desktop, web dan mobile',
+    description: 'Pemrograman atau programming adalah sub dari kejuruan TIK yang bertujuan membangun sebuah program komputer yang dapat dieksekusi komputer untuk tugas tertentu. Pemrograman ini ditujukan untuk beberapa platform yaitu desktop, web dan mobile',
     imageAsset: 'assets/images/programming.png',
     imageUrls: [
       'assets/images/programming1.png',
@@ -26,7 +26,7 @@ var jurusanTikList = [
 
   JurusanTik(
     name: 'Desain Grafis',
-    description: 'mempelajari desain grafis',
+    description: 'Desain Grafis adalah salah satu bentuk seni lukis untuk menciptakan atau mengatur elemen rupa seperti ilustrasi, foto, tulisan, dan garis diatas suatu media. Disini akan dipelajari menggunakan software aplikasi Corel Draw, Adobe Photoshop, Adobe Illustrator',
     imageAsset: 'assets/images/design.png',
     imageUrls: [
       'assets/images/design1.png',
@@ -37,7 +37,7 @@ var jurusanTikList = [
 
   JurusanTik(
     name: 'animasi',
-    description: 'mempelajari cara pembuatan asset dan animasi 3d menggunakan blender',
+    description: 'Animasi adalah suatu gambar bergerak disusun secara khusus sehingga bergerak sesuai alurnya dan sudah ditentukan pada setiap hitungan waktu. Software yang dipelajari adalah blender',
     imageAsset: 'assets/images/animation.png',
     imageUrls: [
       'assets/images/animation1.png',

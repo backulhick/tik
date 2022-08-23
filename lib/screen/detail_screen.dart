@@ -74,7 +74,7 @@ class DetailScreen extends StatelessWidget {
                       padding: const EdgeInsets.all(4.0),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(10),
-                        child: Image.network(url),
+                        child: Image.asset(url),
                       ),
                     );
                   }).toList(),
