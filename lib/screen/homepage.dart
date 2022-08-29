@@ -13,7 +13,7 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     AppBar myAppbar = AppBar(
-      title: const Text('Selamat Datang di Kejuruan TIK BBPVP Bekasi'),
+      title: const Text('Selamat Datang di Kejuruan IT'),
       centerTitle: true,
       elevation: 0,
       flexibleSpace: Container(
@@ -29,8 +29,11 @@ class _HomepageState extends State<Homepage> {
       appBar: myAppbar,
       body: Column(
         children: <Widget>[
-          Center(
-            child: Lottie.asset("assets/it.json"),
+          Container(
+            margin:EdgeInsets.all(20) ,
+            child: Center(
+              child: Lottie.asset("assets/it.json"),
+            ),
           ),
           Center(
             child: ElevatedButton(
